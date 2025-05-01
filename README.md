@@ -1,7 +1,7 @@
 ## Hi,  I'm Nithish
 
-Electrical and Computer Engineering Graduate at the University of Alberta
-My Passion is Artificial Intelligence and Machine Learning
+- Electrical and Computer Engineering Graduate at the University of Alberta
+- My Passion is Artificial Intelligence and Machine Learning
 
 
 ## 🌐 Socials:
