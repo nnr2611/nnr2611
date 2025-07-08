@@ -1,8 +1,10 @@
-## Hi,  I'm Nithish
+## Hi, 
 
-- Electrical and Computer Engineering Graduate at the University of Alberta
-- My Passion is Artificial Intelligence and Machine Learning
+I'm **Nithish Ragav Narayana Shankar**, an AI enthusiast and recent Master of Engineering graduate in Electrical and Computer Engineering from the **University of Alberta**. I specialize in **Machine Learning, Deep Learning**, and **Generative AI**, with strong foundations in **Python, Embedded Systems**, and cloud-based AI tools like **Azure OpenAI**.
 
+With professional experience as a **Software Engineer (Embedded Systems)**, I've developed real-time IoT and smart agriculture solutions, and contributed to predictive systems for energy and air quality forecasting. My research has been published in peer-reviewed journals, with applications spanning **climate science**, **cyber-physical systems**, and **public health**.
+
+🚀 I'm passionate about building impactful AI solutions—from smart energy management using LSTM-XGBoost hybrids to agentic systems using LangChain and Transformers.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/nithish-ragav-narayana-shankar-6a1a491a5) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:nithishragav2611@gmail.com) 
